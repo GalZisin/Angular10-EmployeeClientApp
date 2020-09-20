@@ -1,3 +1,8 @@
+Angular10 Employee ClientApp
+CRUD operation on Employee and department with .NET Core3.1 backend
+
+
+
 # Angular10ClientApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
